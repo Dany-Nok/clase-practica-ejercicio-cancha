@@ -1,0 +1,89 @@
+.cancha_caja{
+  background-color: #8cb27c;
+  width: 1000px;
+  height: 500px;
+  position: absolute;
+}
+.borde{
+  border: 6px solid white;
+  width: 950px;
+  height: 450px;
+  position: relative;
+  top: 19px;
+  left: 18px;
+}
+.arco_izq{
+  border: 6px solid white;
+  width: 100px;
+  height: 200px;
+  position: relative;
+  bottom: 305px;
+  left: 19px;
+}
+.arco_der{
+  border: 6px solid white;
+  width: 100px;
+  height: 200px;
+  position: relative;
+  bottom: 510px;
+  left: 867px;
+}
+.circulo_central{
+  border: 6px solid white;
+  width: 200px;
+  height: 200px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  position: relative;
+  bottom: 720px;
+  left: 410px;
+}
+.sombra_jugador_1{
+  background-color: gray;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  width: 23px;
+  height: 23px;
+  position: relative;
+  bottom: 935px;
+  left: 110px;
+}
+.sombra_jugador_2{
+  background-color: gray;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  width: 23px;
+  height: 23px;
+  position: relative;
+  bottom: 1035px;
+  left: 530px;
+}
+.sombra_jugador_3{
+  background-color: gray;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  width: 23px;
+  height: 23px;
+  position: relative;
+  bottom: 810px;
+  left: 835px;
+}
+.balon_jugador{
+  position: relative;
+  bottom: 1005px;
+  left: 107px;
+}
+.balon_jugador_2{
+  position: relative;
+  bottom: 1110px;
+  left: 528px;
+}
+.balon_jugador_3{
+  position: relative;
+  bottom: 890px;
+  left: 833px;
+}
