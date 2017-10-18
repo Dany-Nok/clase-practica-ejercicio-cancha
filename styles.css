@@ -8,7 +8,7 @@
   border: 6px solid white;
   width: 950px;
   height: 450px;
-  position: relative;
+  position: absolute;
   top: 19px;
   left: 18px;
 }
@@ -16,17 +16,17 @@
   border: 6px solid white;
   width: 100px;
   height: 200px;
-  position: relative;
-  bottom: 305px;
-  left: 19px;
+  position: absolute;
+  bottom: 130px;
+  left: 18px;
 }
 .arco_der{
   border: 6px solid white;
   width: 100px;
   height: 200px;
-  position: relative;
-  bottom: 510px;
-  left: 867px;
+  position: absolute;
+  bottom: 130px;
+  left: 868px;
 }
 .circulo_central{
   border: 6px solid white;
@@ -35,8 +35,8 @@
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   border-radius: 50%;
-  position: relative;
-  bottom: 720px;
+  position: absolute;
+  bottom: 130px;
   left: 410px;
 }
 .sombra_jugador_1{
@@ -46,9 +46,9 @@
   border-radius: 50%;
   width: 23px;
   height: 23px;
-  position: relative;
-  bottom: 935px;
-  left: 110px;
+  position: absolute;
+  bottom: 310px;
+  left: 105px;
 }
 .sombra_jugador_2{
   background-color: gray;
@@ -57,8 +57,8 @@
   border-radius: 50%;
   width: 23px;
   height: 23px;
-  position: relative;
-  bottom: 1035px;
+  position: absolute;
+  bottom: 410px;
   left: 530px;
 }
 .sombra_jugador_3{
@@ -68,22 +68,22 @@
   border-radius: 50%;
   width: 23px;
   height: 23px;
-  position: relative;
-  bottom: 810px;
+  position: absolute;
+  bottom: 140px;
   left: 835px;
 }
 .balon_jugador{
-  position: relative;
-  bottom: 1005px;
-  left: 107px;
+  position: absolute;
+  bottom: 308px;
+  left: 104px;
 }
 .balon_jugador_2{
-  position: relative;
-  bottom: 1110px;
+  position: absolute;
+  bottom: 408px;
   left: 528px;
 }
 .balon_jugador_3{
-  position: relative;
-  bottom: 890px;
+  position: absolute;
+  bottom: 138px;
   left: 833px;
 }
